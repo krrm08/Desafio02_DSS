@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "DesayunoTipico",
+    "imagen": "Tipico.jpg",
+    "precio": 5.45
+  },
+    {
+      "nombre": "Desayuno Súper Tipico",
+      "imagen": "SuperTipico.jpg",
+      "precio": 7.25
+    },
+    {
+      "nombre": "Omelette Supremo Típico",
+      "imagen": "OST.jpg",
+      "precio": 6.20
+    },
+    {
+      "nombre": "Desayuno Campero",
+      "imagen": "Campero.jpg",
+      "precio": 7.25
+    }
+  ]
+  
