@@ -1,6 +1,6 @@
 [
   {
-    "nombre": "DesayunoTipico",
+    "nombre": "Desayuno Tipico",
     "imagen": "Tipico.jpg",
     "precio": 5.45
   },
@@ -18,6 +18,21 @@
       "nombre": "Desayuno Campero",
       "imagen": "Campero.jpg",
       "precio": 7.25
+    },
+    {
+      "nombre": "Croissant de Jamon",
+      "imagen": "Croisant_jamon.png",
+      "precio": 4.75
+    },
+    {
+      "nombre": "Muffin Tocino y Chipotle",
+      "imagen": "muffin.png",
+      "precio": 5.75
+    },
+    {
+      "nombre": "Sandwich Campero",
+      "imagen": "Sandwich.png",
+      "precio": 4.35
     }
   ]
   
