@@ -1,0 +1,39 @@
+[
+    {
+      "nombre": "Jugo De Naranja",
+      "imagen": "jugonaranja.png",
+      "precio": 1.40
+    },
+      {
+        "nombre": "PEPSI",
+        "imagen": "SuperTipico.jpg",
+        "precio": 7.25
+      },
+      {
+        "nombre": "SEVEN UP",
+        "imagen": "sevenup.png",
+        "precio": 2.05
+      },
+      {
+        "nombre": "GRAPETTE",
+        "imagen": "grapette.png",
+        "precio": 2.05
+      },
+      {
+        "nombre": "PEPSI LIGHT",
+        "imagen": "light.png",
+        "precio": 2.05
+      },
+      {
+        "nombre": "BOTELLA CON AGUA",
+        "imagen": "agua.png",
+        "precio": 1.95
+      },
+    
+      {
+        "nombre": "1.5Lts Pepsi",
+        "imagen": "bigpepsi.png",
+        "precio": 2.00
+      }
+    ]
+    
