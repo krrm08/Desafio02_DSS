@@ -1,0 +1,48 @@
+[
+      {
+        "nombre": "Keikito de Vainilla",
+        "imagen": "keikito_vainilla.png",
+        "precio": 1.95
+      },
+      {
+        "nombre": "Keikito de Chispas",
+        "imagen": "keikito_chispas.png",
+        "precio": 1.95
+      },
+      {
+        "nombre": "Flan",
+        "imagen": "flan.png",
+        "precio": 2.15
+      },
+      {
+        "nombre": "Encanelado",
+        "imagen": "encanelado.png",
+        "precio": 2.15
+      },
+      {
+        "nombre": "Tres leches familiar",
+        "imagen": "tres_leches.png",
+        "precio": 6.35
+      },
+      {
+        "nombre": "Tres Leches",
+        "imagen": "leches_tres.png",
+        "precio": 3.35
+      },
+      {
+        "nombre": "Cheescake de Fresa",
+        "imagen": "cheescake_fresa.png",
+        "precio": 4.15
+      },
+      {
+        "nombre": "Cheescake de Caramelo",
+        "imagen": "cheescake_caramelo.png",
+        "precio": 4.15
+      },
+      {
+        "nombre": "Pastel de Chocolate",
+        "imagen": "pastel_chocolate.png",
+        "precio": 3.95
+      }
+    ]
+    
