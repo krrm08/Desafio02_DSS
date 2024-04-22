@@ -45,6 +45,9 @@ h2 {
 .menu-item img {
     width: 100%;
     border-radius: 8px 8px 0 0;
+
+    max-width: 150px; /* Establece el ancho máximo */
+    max-height: 150px; /* Establece la altura máxima */
 }
 
 .menu-item h2 {
